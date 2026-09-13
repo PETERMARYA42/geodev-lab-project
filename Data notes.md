@@ -1,7 +1,7 @@
 # Data notes
 
 ## District boundary - Geofabrik 
--Source: https://download.geofabrik.de/africa/tanzania-latest-internal-free.shp.zip
+- Source: https://download.geofabrik.de/africa/tanzania-latest-internal-free.shp.zip
 - Downloaded: 09/09/2026
 - 603 features, polygons
 - Columns: osm_id(integer), code(integer), fclass(text), name(text)
