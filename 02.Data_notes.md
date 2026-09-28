@@ -1,0 +1,50 @@
+# Data notes
+
+## 1. District boundary - Geofabrik 
+
+| Source | Link | Date of Download | Features | type |
+|---|---|---|---|---|
+| Geofabrick | https://download.geofabrik.de/africa/tanzania-latest-internal-free.shp.zip |09/09/2026 | 603 features | polygons |
+| | | |
+
+
+- > Columns: *osm_id(integer), code(integer), fclass(text), name(text)*
+- >**No nulls** in district_name
+- > Covers my Area of Interest fully
+
+## Transport networks - Geofabrik
+
+| Source | Link | Date of Download | Features | type |
+|---|---|---|---|---|
+| Geofabrick | https://download.geofabrik.de/africa/tanzania-latest-internal-free.shp.zip |09/09/2026 | 32980 features | lines |
+| | | |
+- >Columns: fid(integer), osm_id(integer), code(integer), fclass(text), name(text), ref, oneway(text), maxspeed(integer), layer(integer), bridge(text), tunnel(text)
+- >Only 315 features have names; the rest are null
+- >Coverage is reasonable
+
+## OSM schools, extracted via QuickOSM
+
+| Source | Link | Date of Download | Features | type |
+|---|---|---|---|---|
+| OSM |  |13/09/2026 | 127 features | points |
+| | | |
+- >Query: amenity=* within chamwino_dc extent 
+- >No nulls in the name column, and they are nicely distributed
+
+## Waterways - Geofabrik 
+
+| Source | Link | Date of Download | Features | type |
+|---|---|---|---|---|
+| Geofabrick | https://download.geofabrik.de/africa/tanzania-latest-internal-free.shp.zip |09/09/2026 | 440 features | lines |
+| | | |
+- >Columns: **fid(integer), osm_id(integer), code(integer), fclass(text), width(integer), name(text)*
+-440 features, lines
+- >Only 25 features out of 440 have names  
+- >In the *fclass* column, categorized as stream and river
+
+## Population - WorldPop 
+
+| Source | Link |
+|---|---|
+| WorldPop | https://www.worldpop.org 
+ 
