@@ -12,3 +12,9 @@
 
 See [MyProject.md](01.MyProject.md) for the full brief.
 
+
+## Month 2: preparation of environment and arly python
+
+|Week |Task performed|
+| ---| ---|
+|Week 5| I **setup python**, **VS code** and **the terminal**. *hello.py* runs
