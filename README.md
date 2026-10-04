@@ -13,7 +13,7 @@
 See [MyProject.md](01.MyProject.md) for the full brief.
 
 
-## Month 2: preparation of environment and arly python
+## Month 2: preparation of environment and early python
 
 |Week |Task performed|
 | ---| ---|
