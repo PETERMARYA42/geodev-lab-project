@@ -12,9 +12,10 @@
 
 See [MyProject.md](01.MyProject.md) for the full brief.
 
-
+Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
 ## Month 2: preparation of environment and early python
 
 |Week |Task performed|
 | ---| ---|
 |Week 5| I **setup python**, **VS code** and **the terminal**. *hello.py* runs
+|Week 6| set up the project with **uv** and added **pandas**, **check.py** and the **pandas** *version*
