@@ -19,3 +19,4 @@ Week 6: set up the project with uv and added pandas. check.py prints the pandas 
 | ---| ---|
 |Week 5| I **setup python**, **VS code** and **the terminal**. *hello.py* runs
 |Week 6| set up the project with **uv** and added **pandas**, **check.py** and the **pandas** *version*
+|Week 7| **analyse.py** reads **ward.csv**, coverts each area and classifies each ward.
