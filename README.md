@@ -19,3 +19,4 @@ See [MyProject.md](01.MyProject.md) for the full brief.
 |Week 5| I **setup python**, **VS code** and **the terminal**. *hello.py* runs
 |Week 6| set up the project with **uv** and added **pandas**, **check.py** and the **pandas** *version*
 |Week 7| **analyse.py** reads **ward.csv**, coverts each area and classifies each ward.
+|Week 8| **inspect_data.py** summaries *area_km2* and *population* in my ward.csv data
