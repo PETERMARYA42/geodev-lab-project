@@ -21,3 +21,9 @@ See [MyProject.md](01.MyProject.md) for the full brief.
 |Week 7| **analyse.py** reads **ward.csv**, coverts each area and classifies each ward.
 |Week 8| **inspect_data.py** summaries *area_km2* and *population* in my ward.csv data
 |week 9| ***consolidation*** and ***refractoring***
+
+## Month 2 Reflection
+
+During Month 2, my focus shifted from performing analysis by clicking to writing code. 
+I learned how much easier it is to manage data using code rather than clicking around a user interface. 
+I still face some difficulties coping with Python, but with time, I am handling it slowly but surely.
