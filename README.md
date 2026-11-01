@@ -22,9 +22,11 @@ See [MyProject.md](01.MyProject.md) for the full brief.
 
 ## Month 2: Reflection
 
-During Month 2, my focus shifted from performing analysis by clicking to writing code. 
-I learned how much easier it is to manage data using code rather than clicking around a user interface. 
-I still face some difficulties coping with Python, but with time, I am handling it slowly but surely.
+>During Month 2, my focus shifted from performing analysis by clicking to writing code. 
+
+>I learned how much easier it is to manage data using code rather than clicking around a user interface. 
+
+>I still face some difficulties coping with Python, but with time, I am handling it slowly but surely.
 
 **Built over twelve months with GeoDev Lab Africa, Cohort One.**
 
