@@ -28,6 +28,12 @@ See [MyProject.md](01.MyProject.md) for the full brief.
 
 >I still face some difficulties coping with Python, but with time, I am handling it slowly but surely.
 
+## Month 3: geospatial Python and automation
+
+|Week |Task performed|
+| ---| ---|
+|Week 10| GeoPandas. Loaded, checked, joined and mapped my [**[my_explore.py](month-03/weeek-10/my_explore.py)**, **[my_points.py](month-03/weeek-10/my_points.py)**, **[my_map.py](month-03/weeek-10/my_map.py)** ] in code.
+
 **Built over twelve months with GeoDev Lab Africa, Cohort One.**
 
 **LEARN.** **BUILD.** **COLLABORATE.** **TRANSFORM.**
