@@ -34,6 +34,7 @@ See [MyProject.md](01.MyProject.md) for the full brief.
 | ---| ---|
 |Week 10| GeoPandas. Loaded, checked, joined and mapped my [**[my_explore.py](month-03/weeek-10/my_explore.py)**, **[my_points.py](month-03/weeek-10/my_points.py)**, **[my_map.py](month-03/weeek-10/my_map.py)** ] in code.
 |Week 11| CRS and Spatial operations. Reprojected to **EPSG:32736** and measured total length of *0.93 km* steam.
+|Week 12| Rasters. Computed **-0.204** to **0.716** *index* for **0.208** *Area*. And description about my downloaded data are [here](06.My_Landsat_Data.md)
 
 **Built over twelve months with GeoDev Lab Africa, Cohort One.**
 
